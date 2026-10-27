@@ -1,8 +1,0 @@
-# Pin garminconnect to the version recorded in the evaluated run's summary
-# (garminconnect_version in Combined_Run_Summary / run manifest). Minimum supported: 0.3.10.
-garminconnect>=0.3.10,<0.4.0
-pandas
-requests
-openpyxl
-# Optional: formula-safe Excel write-back for the STEP workbook
-# xlwings
