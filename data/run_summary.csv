@@ -1,0 +1,4 @@
+project,run_date,rows_considered,records_successful,records_failed,retry_attempts,total_wall_seconds,garmin_api_attempts,garmin_api_errors,garmin_retry_events,garmin_api_active_seconds,garmin_throttle_sleep_seconds,garmin_retry_sleep_seconds,garmin_pacing_enabled,redcap_upload_seconds_total,redcap_verify_seconds_total,redcap_verify_mismatches_total
+Project 1,2026-09-28,146,105,41,0,,,,,,,,,,,
+Project 2,2026-09-28,57,37,20,0,,,,,,,,,,,
+Overall,2026-09-28,203,142,61,0,4764.480291,31458.0,2.0,2.0,3534.099901,0.0,3.150751,False,985.847023,91.271218,0.0
